@@ -24,7 +24,7 @@ The hls_lfcd_lds_driver package is a driver for HLS(Hitachi-LG Sensor) LFCD LDS(
 sudo apt-get install ros-kinetic-hls-lfcd-lds-driver
 ```
 or download the driver into your catkin_**/src，and compile it.
-
+The driver download link:https://github.com/Harrybot2/hls_lfcd_lds_driver
 ## Setting the permissions of HLS-LFCD2
 connect the lidar with your computer,and run below:
 ```
